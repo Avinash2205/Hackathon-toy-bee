@@ -4,10 +4,10 @@ TOY BEE BILLING AND RECOMMENADATION SYSTEM
 Github link
 https://github.com/Avinash2205/Hackathon-toy-bee
 
-youtube link 
+Youtube link 
 https://youtu.be/Ov0GM9tcjQ8
 
 Presentation link
-https://github.com/Avinash2205/Hackathon-toy-bee/tree/master/presentation%20ppt
+https://drive.google.com/open?id=18trG0fXcj348uW5Qr0XSEA3jhrundozk
 
 
